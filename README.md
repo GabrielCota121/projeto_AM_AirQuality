@@ -7,10 +7,10 @@ Aqui nós temos a descrição de como foi separado os documentos deste repositó
 Duas abordagens para utilização da base de dados para a elaboração do experimento. Dentro dela, temos
     1.1) Base Completa consiste na base completa do dataset Air Quality
     1.2) seasons base de treino para estações do ano
-        - autumn base de teste do período do outono e os 10 bases de testes aleatórias
-        - spring base de teste do período da primavera e os 10 bases de testes aleatórias
-        - summer base de teste do período do verão e os 10 bases de testes aleatórias
-        - winter base de teste do período do inverno e os 10 bases de testes aleatórias
+        -> /autumn: base de teste do período do outono e os 10 bases de testes aleatórias
+        -> /spring: base de teste do período da primavera e os 10 bases de testes aleatórias
+        -> /summer: base de teste do período do verão e os 10 bases de testes aleatórias
+        -> /winter: base de teste do período do inverno e os 10 bases de testes aleatórias
 
 # /papers 
 Pasta com as principais referências para o experimento realizado, são elas
